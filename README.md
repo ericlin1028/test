@@ -2,5 +2,3 @@
 adding a line
 
 123A line I wrote on my local computer
-
-[link](https://www.rstudio.com/)
